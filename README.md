@@ -91,7 +91,7 @@ Para priorizar as hipóteses, utilizaremos os seguintes critérios:
 
 ---
 
-## Os Resultados, a Descrição
+## Resultados
 
 O resultado deste projeto é um **Dashboard Interativo**, dinâmico e visualmente claro, construído no Power BI. Ele transforma a planilha de dados em um centro de inteligência de negócios, permitindo ao proprietário da No Break Celulares tomar decisões estratégicas com base em informações precisas e em tempo real. O dashboard oferece uma visão 360º da empresa, desde o faturamento consolidado até os detalhes operacionais.
 
