@@ -97,6 +97,6 @@ O resultado deste projeto é um **Dashboard Interativo**, dinâmico e visualment
 
 ---
 
-## A Visualização da Análise Completa
+## Visualização da Análise Completa
 
 A visualização completa foi criada no Power BI, transformando todos os insights e resultados desta análise em gráficos e tabelas interativas, prontas para serem exploradas.
