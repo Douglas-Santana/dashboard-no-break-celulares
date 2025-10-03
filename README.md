@@ -84,10 +84,10 @@ Para priorizar as hipóteses, utilizaremos os seguintes critérios:
 
 ## Insights da Análise
 
-* **Maior Lucratividade:** O serviço de **Troca de Tela** representa **45%** do faturamento total, confirmando a hipótese de que este é o carro-chefe do negócio.
-* **Ticket Médio por Marca:** A marca **Apple** apresenta um ticket médio de R$ 420 por serviço, superando em 30% o de outras marcas como Samsung e Motorola.
-* **Desempenho dos Técnicos:** O técnico **Maria** lidera o faturamento total (R$ 4.200), enquanto o técnico **Pedro** tem o maior volume de serviços concluídos, demonstrando um perfil de atendimento mais rápido para serviços de menor valor.
-* **Pagamento Preferido:** O **PIX** é a forma de pagamento mais popular, respondendo por 60% das transações, o que sugere a importância de priorizar este método para agilizar o fluxo de caixa.
+* **Maior Lucratividade:** O serviço de **Troca de Tela** representa **53%** do faturamento total, confirmando a hipótese de que este é o carro-chefe do negócio.
+* **Ticket Médio por Marca:** A marca **Apple** apresenta um ticket médio de R$ 350 por serviço, superando em cerca de 41% o de outras marcas como Samsung e 60% Motorola.
+* **Desempenho dos Técnicos:** O técnico **Maria** lidera o faturamento total (R$ 3.120), enquanto o técnico **Pedro** tem o maior volume de serviços concluídos, demonstrando um perfil de atendimento mais rápido para serviços de menor valor.
+* **Pagamento Preferido:** O **PIX** é a forma de pagamento mais popular, respondendo por 51% das transações, o que sugere a importância de priorizar este método para agilizar o fluxo de caixa.
 
 ---
 
