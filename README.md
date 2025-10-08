@@ -18,11 +18,11 @@ Este projeto de análise de dados tem como objetivo criar um **Dashboard Interat
 
 ---
 
-## O Problema de Negócio
+## Problema de Negócio
 
 O proprietário da **No Break Celulares** não possui uma visão clara e consolidada sobre a performance financeira e operacional da sua assistência técnica. Ele gerencia o negócio com base em informações fragmentadas, sem um painel centralizado para identificar o faturamento total, os serviços mais lucrativos e os celulares mais recorrentes. Essa falta de dados estruturados dificulta a tomada de decisões estratégicas, como a gestão otimizada de estoque de peças e a identificação de oportunidades de crescimento.
 
-## O Contexto
+## Contexto
 
 A assistência técnica **No Break Celulares** lida com um volume crescente de ordens de serviço para reparo de dispositivos móveis. Atualmente, os dados de cada serviço (cliente, modelo do aparelho, tipo de reparo, peças utilizadas e valores) são registrados em uma planilha simples. Para escalar o negócio e garantir um crescimento sustentável, o proprietário precisa migrar de um modelo de gestão reativo para um modelo **orientado por dados**, que transforme as informações brutas em **insights acionáveis**.
 
